@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2013.02.01 17:32:45.695.pas,C:\Users\Eee\Documents\RAD Studio\Projects\Unit2.pas=C:\shareware 2009\xy_arduino_draw\Unit2.pas</Transaction>
+    <Transaction>2013.02.01 17:32:45.722.dfm,C:\Users\Eee\Documents\RAD Studio\Projects\Unit2.dfm=C:\shareware 2009\xy_arduino_draw\Unit2.dfm</Transaction>
+    <Transaction>2013.02.01 17:32:52.192.dproj,C:\Users\Eee\Documents\RAD Studio\Projects\Project2.dproj=C:\shareware 2009\xy_arduino_draw\xydraw1.dproj</Transaction>
+    <Transaction>2013.05.04 19:18:08.484.dproj,C:\shareware 2009\xyz_draw\xydraw1.dproj=C:\shareware 2009\xyz_draw\xyzdraw1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
